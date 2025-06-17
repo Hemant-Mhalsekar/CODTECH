@@ -24,7 +24,7 @@ This repository contains the completed tasks assigned during my **Machine Learni
 - **Preprocessing**: Text cleaning, TF-IDF feature extraction.
 - **Evaluation Metrics**: Accuracy Score, Confusion Matrix, Classification Report.
 
-🔗 [View Notebook](link-to-task-2-notebook)
+🔗 [View Notebook](https://github.com/Hemant-Mhalsekar/CODTECH/blob/e69eea93669fdc02ecbb49ad80a9c0c036e73dce/Task%202%20-%20Sentiment%20Analysis/task2_sentiment_analysis.ipynb)
 
 ---
 
@@ -34,7 +34,7 @@ This repository contains the completed tasks assigned during my **Machine Learni
 - **Tools**: Python, TensorFlow, Keras, Matplotlib.
 - **Outcome**: Successfully trained and evaluated CNN model with visualization of training accuracy and loss.
 
-🔗 [View Notebook](link-to-task-3-notebook)
+🔗 [View Notebook](https://github.com/Hemant-Mhalsekar/CODTECH/blob/e69eea93669fdc02ecbb49ad80a9c0c036e73dce/Task%203%20-%20CNN%20Image%20Classification/task3_cnn_classification.ipynb)
 
 ---
 
@@ -45,7 +45,7 @@ This repository contains the completed tasks assigned during my **Machine Learni
 - **Tools**: Python, Pandas, Scikit-learn.
 - **Outcome**: Generated User Similarity Matrix and provided item recommendations.
 
-🔗 [View Notebook](link-to-task-4-notebook)
+🔗 [View Notebook](https://github.com/Hemant-Mhalsekar/CODTECH/blob/e69eea93669fdc02ecbb49ad80a9c0c036e73dce/Task%204%20-%20Recommendation%20System/task4_recommendation_system.ipynb)
 
 ---
 
@@ -88,8 +88,8 @@ This repository contains the completed tasks assigned during my **Machine Learni
 
 ## 🤝 **Contact**
 **Hemant Mhalsekar**  
-[Your LinkedIn URL]  
-[Your Email]
+[LinkedIn](www.linkedin.com/in/hemant-mhalsekar-464a50244)  
+[Email](hemantmhalsekar1@gmail.com)
 
 ---
 
