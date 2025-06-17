@@ -13,7 +13,7 @@ This repository contains the completed tasks assigned during my **Machine Learni
 - **Tools**: Python, Scikit-learn, Matplotlib.
 - **Outcome**: Achieved model training, visualization of the decision tree structure, and performance evaluation.
 
-🔗 [View Notebook](Task 1 - Decision Tree/task1_decision_tree.ipynb)
+🔗 [View Notebook](https://github.com/Hemant-Mhalsekar/CODTECH/blob/main/Task%201%20-%20Decision%20Tree/task1_decision_tree.ipynb)
 
 ---
 
