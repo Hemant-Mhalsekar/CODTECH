@@ -87,7 +87,7 @@ This repository contains the completed tasks assigned during my **Machine Learni
 
 ## 🤝 **Contact**
 **Hemant Mhalsekar**  
-[LinkedIn](www.linkedin.com/in/hemant-mhalsekar-464a50244)  
-[Email](hemantmhalsekar1@gmail.com)
+[My LinkedIn](https://www.linkedin.com/in/hemant-mhalsekar-464a50244)  
+[My Email](mailto:hemantmhalsekar1@gmail.com)
 
 ---
